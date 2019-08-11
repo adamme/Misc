@@ -1,0 +1,6 @@
+#GAM Aliases
+alias updategam="bash <(curl -s -S -L https://git.io/install-gam) -l"
+alias updategamadv="bash <(curl -s -S -L https://git.io/fhZWP) -l"
+alias gyb="~/bin/gyb/gyb"
+alias gam="~/bin/gamadv-xtd3/gam"
+alias count="~/scripts/get_license_count.sh"
