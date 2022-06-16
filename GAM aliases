@@ -4,3 +4,8 @@ alias updategamadv="bash <(curl -s -S -L https://git.io/fhZWP) -l"
 alias gyb="~/bin/gyb/gyb"
 alias gam="~/bin/gamadv-xtd3/gam"
 alias count="~/scripts/get_license_count.sh"
+
+
+#.zshrc aliases
+alias gcp='~/apps/./google-cloud-sdk/bin/gcloud cloud-shell ssh --authorize-session'
+alias source='source ~/.zshrc'
